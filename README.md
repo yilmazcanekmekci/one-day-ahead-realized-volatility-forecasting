@@ -248,5 +248,16 @@ This study demonstrates that volatility forecasting benefits substantially from 
 
 The final LSTM model achieves an **R² of 0.8459** on unseen data, offering a robust and theoretically consistent framework for short-horizon volatility forecasting.
 
+## References
+
+[1] Sarath, S. (n.d.). Adani Stocks Dataset. Kaggle.  
+    https://www.kaggle.com/datasets/sarath02/adani-stocks
+
+[2] Weychert, E. (n.d.). Machine Learning II [Lecture slides and code scripts].  
+    Master’s in Data Science and Business Analytics, University of Warsaw.
+
+[3] Sakowski, P. (n.d.). Machine Learning II [Lecture slides, code scripts, and presentations].  
+    Master’s in Data Science and Business Analytics, University of Warsaw.
+
 ---
 
